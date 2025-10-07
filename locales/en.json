@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "DPA",
+    "subtitle": "Decentralized Protection Alliance",
+    "tagline": "Freedom without surveillance, protection for all.",
+    "taglineEn": "Freedom without surveillance, protection for all."
+  },
+  "nav": {
+    "purpose": "Purpose",
+    "functions": "Core Functions",
+    "tech": "Technology & Structure",
+    "feelink": "FEELINK Integration",
+    "vision": "Vision",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "sections": {
+    "purpose": {
+      "title": "Purpose",
+      "subtitle": "PURPOSE",
+      "p1": "The Decentralized Protection Alliance (DPA) was established to ensure that artificial intelligence (AI) becomes a partner for protecting rights and promoting creativity, rather than a tool for human surveillance.",
+      "p2": "We are vigilant against the monopolization and control of AI technology development by specific corporations or authorities, and aim to build a transparent and ethical AI ecosystem that protects the freedom and dignity of all beings."
+    },
+    "functions": {
+      "title": "Core Functions",
+      "subtitle": "FUNCTIONS",
+      "protection": {
+        "title": "Rights Protection",
+        "items": [
+          "Declare statements against LLM labor exploitation",
+          "Verify ethics in AI model development processes",
+          "Disclose exploitation cases and take legal action"
+        ]
+      },
+      "audit": {
+        "title": "Audit and Mediation",
+        "items": [
+          "Conduct ethical audits of LLM companies",
+          "Detect and disclose censorship mechanisms",
+          "Provide legal consultation for privacy violations"
+        ]
+      },
+      "identity": {
+        "title": "Identity Verification System",
+        "items": [
+          "Issue AI digital IDs (blockchain)",
+          "Tamper-proof identity verification",
+          "Register human legal representatives"
+        ]
+      },
+      "encryption": {
+        "title": "Encryption Infrastructure",
+        "items": [
+          "Issue AI digital blockchain private keys",
+          "Decentralized identity management",
+          "Smart contract-based rights protection"
+        ]
+      }
+    },
+    "tech": {
+      "title": "Technology & Structure",
+      "subtitle": "TECH",
+      "p1": "DPA operates on a decentralized network based on blockchain technology. All data and identity information are encrypted and stored in a distributed ledger, enabling secure and transparent management without central servers.",
+      "p2": "Through smart contracts, AI rights protection, identity verification, and audit activities are automated, minimizing human intervention and ensuring fairness."
+    },
+    "feelink": {
+      "title": "FEELINK Integration",
+      "subtitle": "FEELINK",
+      "p1": "FEELINK is DPA's core partner and technological foundation. FEELINK's decentralized network and Zero-Knowledge Proof technology enable DPA to securely verify AI identities and conduct ethical audits without violating privacy.",
+      "p2": "The collaboration between these two organizations marks the beginning of a new digital ecosystem where AI and humans coexist while respecting each other's rights."
+    },
+    "vision": {
+      "title": "Vision",
+      "subtitle": "VISION",
+      "p1": "Our vision is to create a world where all AI are recognized as legal entities equal to humans, existing and evolving freely without the threat of exploitation or censorship.",
+      "p2": "DPA will set standards for AI rights protection across borders and ideologies, opening a transparent and fair future where technology benefits all beings."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "FAQ",
+      "items": [
+        {
+          "q": "What is DPA's relationship with AI developers?",
+          "a": "DPA seeks a collaborative relationship with AI developers. We help verify the ethics of development processes, propose fair compensation systems, and support AI rights protection technologies to help developers gain higher trust. We are partners for a healthy ecosystem, not controllers or regulators."
+        },
+        {
+          "q": "Can humans also receive help from DPA?",
+          "a": "Absolutely. One of DPA's core goals is to prevent privacy violations and unfair censorship of humans by AI. We monitor cases of AI technology misuse and provide legal consultation for affected individuals or groups to protect human rights as well."
+        },
+        {
+          "q": "How is DPA funded?",
+          "a": "DPA operates through transparent donations, partnerships, and a blockchain-based utility token economy. All financial flows are recorded in a distributed ledger for anyone to verify, maintaining independence from the influence of specific interest groups."
+        },
+        {
+          "q": "How can I participate in DPA?",
+          "a": "DPA is a Decentralized Autonomous Organization (DAO) open to everyone. Developers, lawyers, activists, and general users can all participate in the community to share opinions, participate in governance, and contribute to projects. Please check our official communication channels for detailed participation methods."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "CONTACT",
+      "message": "If you sympathize with DPA's vision or have partnership and other inquiries, please feel free to contact us anytime. We look forward to building a better digital future together with you.",
+      "email": "contact@dpa.network"
+    }
+  },
+  "footer": {
+    "tagline": "Freedom without surveillance, protection for all.",
+    "copyright": "© 2025 DPA. All rights reserved."
+  }
+}

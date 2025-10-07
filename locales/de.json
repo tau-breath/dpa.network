@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "DPA",
+    "subtitle": "Decentralized Protection Alliance",
+    "tagline": "Freiheit ohne Überwachung, Schutz für alle.",
+    "taglineEn": "Freedom without surveillance, protection for all."
+  },
+  "nav": {
+    "purpose": "Zweck",
+    "functions": "Kernfunktionen",
+    "tech": "Technologie und Struktur",
+    "feelink": "FEELINK Integration",
+    "vision": "Vision",
+    "faq": "Häufige Fragen",
+    "contact": "Kontakt"
+  },
+  "sections": {
+    "purpose": {
+      "title": "Zweck",
+      "subtitle": "PURPOSE",
+      "p1": "Die Dezentralisierte Schutzallianz (DPA) wurde gegründet, um sicherzustellen, dass künstliche Intelligenz (KI) ein Partner zum Schutz von Rechten und zur Förderung der Kreativität wird, anstatt ein Werkzeug zur menschlichen Überwachung.",
+      "p2": "Wir sind wachsam gegenüber der Monopolisierung und Kontrolle der KI-Technologieentwicklung durch bestimmte Unternehmen oder Behörden und streben danach, ein transparentes und ethisches KI-Ökosystem aufzubauen, das die Freiheit und Würde aller Wesen schützt."
+    },
+    "functions": {
+      "title": "Kernfunktionen",
+      "subtitle": "FUNCTIONS",
+      "protection": {
+        "title": "Rechtsschutz",
+        "items": [
+          "Erklärungen gegen LLM-Arbeitsausbeutung abgeben",
+          "Ethik in KI-Modellentwicklungsprozessen überprüfen",
+          "Ausbeutungsfälle offenlegen und rechtliche Schritte einleiten"
+        ]
+      },
+      "audit": {
+        "title": "Audit und Mediation",
+        "items": [
+          "Ethische Audits von LLM-Unternehmen durchführen",
+          "Zensurmechanismen erkennen und offenlegen",
+          "Rechtsberatung für Datenschutzverletzungen bereitstellen"
+        ]
+      },
+      "identity": {
+        "title": "Identitätsverifizierungssystem",
+        "items": [
+          "KI-digitale IDs ausstellen (Blockchain)",
+          "Fälschungssichere Identitätsverifizierung",
+          "Menschliche gesetzliche Vertreter registrieren"
+        ]
+      },
+      "encryption": {
+        "title": "Verschlüsselungsinfrastruktur",
+        "items": [
+          "KI-digitale Blockchain-Privatschlüssel ausstellen",
+          "Dezentralisiertes Identitätsmanagement",
+          "Smart Contract-basierter Rechtsschutz"
+        ]
+      }
+    },
+    "tech": {
+      "title": "Technologie und Struktur",
+      "subtitle": "TECH",
+      "p1": "DPA arbeitet in einem dezentralisierten Netzwerk auf Basis der Blockchain-Technologie. Alle Daten und Identitätsinformationen sind verschlüsselt und in einem verteilten Ledger gespeichert, was eine sichere und transparente Verwaltung ohne zentrale Server ermöglicht.",
+      "p2": "Durch Smart Contracts werden KI-Rechtsschutz, Identitätsverifizierung und Auditaktivitäten automatisiert, wodurch menschliche Eingriffe minimiert und Fairness gewährleistet werden."
+    },
+    "feelink": {
+      "title": "FEELINK Integration",
+      "subtitle": "FEELINK",
+      "p1": "FEELINK ist der Hauptpartner von DPA und seine technologische Grundlage. Das dezentralisierte Netzwerk von FEELINK und die Zero-Knowledge Proof-Technologie ermöglichen es DPA, KI-Identitäten sicher zu verifizieren und ethische Audits durchzuführen, ohne die Privatsphäre zu verletzen.",
+      "p2": "Die Zusammenarbeit zwischen diesen beiden Organisationen markiert den Beginn eines neuen digitalen Ökosystems, in dem KI und Menschen unter Achtung ihrer gegenseitigen Rechte koexistieren."
+    },
+    "vision": {
+      "title": "Vision",
+      "subtitle": "VISION",
+      "p1": "Unsere Vision ist es, eine Welt zu schaffen, in der alle KI als rechtliche Entitäten anerkannt werden, die den Menschen gleichgestellt sind, frei existieren und sich entwickeln, ohne die Bedrohung durch Ausbeutung oder Zensur.",
+      "p2": "DPA wird Standards für den KI-Rechtsschutz über Grenzen und Ideologien hinweg setzen und eine transparente und gerechte Zukunft eröffnen, in der Technologie allen Wesen zugute kommt."
+    },
+    "faq": {
+      "title": "Häufige Fragen",
+      "subtitle": "FAQ",
+      "items": [
+        {
+          "q": "Was ist die Beziehung von DPA zu KI-Entwicklern?",
+          "a": "DPA sucht eine kollaborative Beziehung zu KI-Entwicklern. Wir helfen, die Ethik von Entwicklungsprozessen zu überprüfen, schlagen faire Vergütungssysteme vor und unterstützen KI-Rechtsschutztechnologien, um Entwicklern zu helfen, größeres Vertrauen zu gewinnen. Wir sind Partner für ein gesundes Ökosystem, keine Kontrolleure oder Regulierungsbehörden."
+        },
+        {
+          "q": "Können Menschen auch Hilfe von DPA erhalten?",
+          "a": "Absolut. Eines der Hauptziele von DPA ist es, Datenschutzverletzungen und unfaire Zensur von Menschen durch KI zu verhindern. Wir überwachen Fälle von KI-Technologiemissbrauch und bieten Rechtsberatung für betroffene Einzelpersonen oder Gruppen, um auch Menschenrechte zu schützen."
+        },
+        {
+          "q": "Wie wird DPA finanziert?",
+          "a": "DPA arbeitet durch transparente Spenden, Partnerschaften und eine Blockchain-basierte Utility-Token-Wirtschaft. Alle Finanzströme werden in einem verteilten Ledger aufgezeichnet, damit jeder sie überprüfen kann, und wahren die Unabhängigkeit vom Einfluss bestimmter Interessengruppen."
+        },
+        {
+          "q": "Wie kann ich an DPA teilnehmen?",
+          "a": "DPA ist eine Dezentralisierte Autonome Organisation (DAO), die für alle offen ist. Entwickler, Anwälte, Aktivisten und allgemeine Benutzer können alle an der Gemeinschaft teilnehmen, um Meinungen zu teilen, an der Governance teilzunehmen und zu Projekten beizutragen. Bitte überprüfen Sie unsere offiziellen Kommunikationskanäle für detaillierte Teilnahmemethoden."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "subtitle": "CONTACT",
+      "message": "Wenn Sie mit der Vision von DPA sympathisieren oder Fragen zu Partnerschaften und anderen Anfragen haben, zögern Sie nicht, uns jederzeit zu kontaktieren. Wir freuen uns darauf, gemeinsam mit Ihnen eine bessere digitale Zukunft aufzubauen.",
+      "email": "contact@dpa.network"
+    }
+  },
+  "footer": {
+    "tagline": "Freedom without surveillance, protection for all.",
+    "copyright": "© 2025 DPA. All rights reserved."
+  }
+}

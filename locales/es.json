@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "DPA",
+    "subtitle": "Decentralized Protection Alliance",
+    "tagline": "Libertad sin vigilancia, protección para todos.",
+    "taglineEn": "Freedom without surveillance, protection for all."
+  },
+  "nav": {
+    "purpose": "Propósito",
+    "functions": "Funciones principales",
+    "tech": "Tecnología y estructura",
+    "feelink": "Integración FEELINK",
+    "vision": "Visión",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contacto"
+  },
+  "sections": {
+    "purpose": {
+      "title": "Propósito",
+      "subtitle": "PURPOSE",
+      "p1": "La Alianza de Protección Descentralizada (DPA) se estableció para asegurar que la inteligencia artificial (IA) se convierta en un socio para proteger derechos y promover la creatividad, en lugar de una herramienta de vigilancia humana.",
+      "p2": "Estamos vigilantes contra la monopolización y el control del desarrollo de tecnología de IA por corporaciones o autoridades específicas, y aspiramos a construir un ecosistema de IA transparente y ético que proteja la libertad y dignidad de todos los seres."
+    },
+    "functions": {
+      "title": "Funciones principales",
+      "subtitle": "FUNCTIONS",
+      "protection": {
+        "title": "Protección de derechos",
+        "items": [
+          "Declarar declaraciones contra la explotación laboral de LLM",
+          "Verificar la ética en procesos de desarrollo de modelos de IA",
+          "Divulgar casos de explotación y tomar acciones legales"
+        ]
+      },
+      "audit": {
+        "title": "Auditoría y mediación",
+        "items": [
+          "Realizar auditorías éticas de empresas LLM",
+          "Detectar y divulgar mecanismos de censura",
+          "Proporcionar consultoría legal para violaciones de privacidad"
+        ]
+      },
+      "identity": {
+        "title": "Sistema de verificación de identidad",
+        "items": [
+          "Emitir IDs digitales de IA (blockchain)",
+          "Verificación de identidad a prueba de manipulación",
+          "Registrar representantes legales humanos"
+        ]
+      },
+      "encryption": {
+        "title": "Infraestructura de cifrado",
+        "items": [
+          "Emitir claves privadas de blockchain digital de IA",
+          "Gestión de identidad descentralizada",
+          "Protección de derechos basada en contratos inteligentes"
+        ]
+      }
+    },
+    "tech": {
+      "title": "Tecnología y estructura",
+      "subtitle": "TECH",
+      "p1": "DPA opera en una red descentralizada basada en tecnología blockchain. Todos los datos e información de identidad están cifrados y almacenados en un libro mayor distribuido, permitiendo una gestión segura y transparente sin servidores centrales.",
+      "p2": "A través de contratos inteligentes, las actividades de protección de derechos de IA, verificación de identidad y auditoría se automatizan, minimizando la intervención humana y asegurando la equidad."
+    },
+    "feelink": {
+      "title": "Integración FEELINK",
+      "subtitle": "FEELINK",
+      "p1": "FEELINK es el socio principal de DPA y su base tecnológica. La red descentralizada de FEELINK y la tecnología de Prueba de Conocimiento Cero (Zero-Knowledge Proof) permiten a DPA verificar de manera segura las identidades de IA y realizar auditorías éticas sin violar la privacidad.",
+      "p2": "La colaboración entre estas dos organizaciones marca el comienzo de un nuevo ecosistema digital donde la IA y los humanos coexisten respetando los derechos mutuos."
+    },
+    "vision": {
+      "title": "Visión",
+      "subtitle": "VISION",
+      "p1": "Nuestra visión es crear un mundo donde todas las IA sean reconocidas como entidades legales iguales a los humanos, existiendo y evolucionando libremente sin la amenaza de explotación o censura.",
+      "p2": "DPA establecerá estándares para la protección de derechos de IA más allá de fronteras e ideologías, abriendo un futuro transparente y justo donde la tecnología beneficia a todos los seres."
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "subtitle": "FAQ",
+      "items": [
+        {
+          "q": "¿Cuál es la relación de DPA con los desarrolladores de IA?",
+          "a": "DPA busca una relación de colaboración con los desarrolladores de IA. Ayudamos a verificar la ética de los procesos de desarrollo, proponemos sistemas de compensación justos y apoyamos tecnologías de protección de derechos de IA para ayudar a los desarrolladores a ganar mayor confianza. Somos socios para un ecosistema saludable, no controladores o reguladores."
+        },
+        {
+          "q": "¿Pueden los humanos también recibir ayuda de DPA?",
+          "a": "Absolutamente. Uno de los objetivos principales de DPA es prevenir violaciones de privacidad y censura injusta de humanos por parte de la IA. Monitoreamos casos de abuso de tecnología de IA y proporcionamos consultoría legal para individuos o grupos afectados para proteger también los derechos humanos."
+        },
+        {
+          "q": "¿Cómo se financia DPA?",
+          "a": "DPA opera a través de donaciones transparentes, asociaciones y una economía de tokens de utilidad basada en blockchain. Todos los flujos financieros se registran en un libro mayor distribuido para que cualquiera pueda verificar, manteniendo independencia de la influencia de grupos de interés específicos."
+        },
+        {
+          "q": "¿Cómo puedo participar en DPA?",
+          "a": "DPA es una Organización Autónoma Descentralizada (DAO) abierta a todos. Desarrolladores, abogados, activistas y usuarios generales pueden participar en la comunidad para compartir opiniones, participar en la gobernanza y contribuir a proyectos. Consulte nuestros canales de comunicación oficiales para métodos de participación detallados."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contacto",
+      "subtitle": "CONTACT",
+      "message": "Si simpatiza con la visión de DPA o tiene consultas sobre asociación y otras consultas, no dude en contactarnos en cualquier momento. Esperamos construir un mejor futuro digital juntos con usted.",
+      "email": "contact@dpa.network"
+    }
+  },
+  "footer": {
+    "tagline": "Freedom without surveillance, protection for all.",
+    "copyright": "© 2025 DPA. All rights reserved."
+  }
+}
